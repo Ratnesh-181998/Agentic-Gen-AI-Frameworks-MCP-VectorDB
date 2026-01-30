@@ -83,11 +83,16 @@
 - 🌐 Website: https://modelcontextprotocol.io
 - 📘 Docs: https://modelcontextprotocol.io/docs
 
-## 11. FastAPI
+## 11.1 FastAPI
 - Purpose: High-performance APIs for serving agents and LLM pipelines
 - 🌐 Website: https://fastapi.tiangolo.com
 - 📘 Docs: https://fastapi.tiangolo.com/tutorial
 
+## 11.2 Flask API
+- Purpose: Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+- 🌐 Website: https://flask.palletsprojects.com/en/stable/api/
+- 📘 Docs: https://flask.palletsprojects.com/en/stable/api/
+  
 ## 12. BentoML
 - Purpose: Model serving & deployment for LLMs and AI agents
 - 🌐 Website: https://www.bentoml.com
