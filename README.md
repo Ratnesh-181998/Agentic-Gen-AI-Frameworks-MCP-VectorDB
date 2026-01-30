@@ -93,6 +93,12 @@
 - 🌐 Website: https://flask.palletsprojects.com/en/stable/api/
 - 📘 Docs: https://flask.palletsprojects.com/en/stable/api/
 - https://github.com/flask-api/flask-api
+
+## 11.3 Apache HTTP & HTTPS & HTTPD Server
+- The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows.
+- https://github.com/apache/httpd
+- https://httpd.apache.org/
+- https://httpd.apache.org/docs/
   
 ## 12. BentoML
 - Purpose: Model serving & deployment for LLMs and AI agents
