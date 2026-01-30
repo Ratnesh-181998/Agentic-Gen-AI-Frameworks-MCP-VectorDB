@@ -85,7 +85,7 @@
 - Google Gemini – https://ai.google.dev/docs
 - Grok (xAI) – https://x.ai
 
-## 17. Cloud & DevOps Stack (Agent Deployment)
+## 17. Cloud & LLMOps Stack (Agent Deployment)
 - Docker – https://docs.docker.com
 - AWS (EC2, S3, ECR, Bedrock) – https://docs.aws.amazon.com
 - GitHub Actions – https://docs.github.com/actions
