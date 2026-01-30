@@ -1,0 +1,68 @@
+Agentic AI & Generative AI Frameworks
+________________________________________
+1. LangChain
+A popular framework for building agentic applications that connect LLMs with external tools, memory, and reasoning workflows.
+•	🌐 Official Website: https://langchain.com/
+•	📘 Documentation: https://langchain.com/docs
+________________________________________
+2. Hugging Face Transformers
+State-of-the-art NLP and multimodal models — widely used for building generative AI applications.
+•	🌐 Official Website: https://huggingface.co/transformers
+•	📘 Documentation: https://huggingface.co/docs/transformers
+________________________________________
+3. OpenAI API
+The official API for OpenAI’s large language models (GPT-4, GPT-3.5, etc.) used in agentic and generative workflows.
+•	🌐 Official Website: https://openai.com/
+•	📘 API Docs: https://platform.openai.com/docs
+________________________________________
+4. Ray (Ray RLlib, Ray Serve, Ray AI)
+Distributed computing framework often used with agentic AI for scalable execution, orchestration, and RL training.
+•	🌐 Official Website: https://www.ray.io/
+•	📘 Documentation: https://docs.ray.io/
+________________________________________
+5. AgentGPT
+A tool to quickly build and deploy autonomous AI agents with task reasoning and memory.
+•	🌐 Official Website: https://agentgpt.ai/
+•	📘 Docs / Help: https://docs.agentgpt.ai/ (or support on the platform)
+________________________________________
+6. AutoGPT
+Open-source framework for autonomous generative AI agents that can plan and execute multi-step tasks.
+•	🌐 GitHub: https://github.com/Significant-Gravitas/Auto-GPT
+•	📘 Docs: https://github.com/Significant-Gravitas/Auto-GPT/wiki
+________________________________________
+7. LLM-Agent (Meta / Open Source)
+Meta’s research initiative for building agent-style workflows (various community implementations).
+•	🌐 GitHub: search for “LLM-Agent meta”
+•	📘 Docs: Usually in repo README
+________________________________________
+8. Haystack (deepset)
+Production-grade framework for RAG + agentic pipeline building with search and reasoning components.
+•	🌐 Official Website: https://www.deepset.ai/
+•	📘 Documentation: https://docs.deepset.ai/
+________________________________________
+9. ReAct
+A methodology/framework for chaining reasoning and actions in language models.
+•	🌐 ReAct Paper & Community Examples:
+https://arxiv.org/abs/2210.03629
+•	📘 Implementations: Provided in LangChain / community repos
+________________________________________
+10. ChatterBot
+A conversational agent library in Python for creating chatbots (simpler agentic behaviors).
+•	🌐 GitHub: https://github.com/gunthercox/ChatterBot
+•	📘 Docs: https://chatterbot.readthedocs.io/
+________________________________________
+🧠 Quick Summary
+Framework	Use Case	Official Site	Docs
+LangChain	Agent workflows	https://langchain.com/	https://langchain.com/docs
+Hugging Face Transformers	NLP & GenAI	https://huggingface.co/transformers
+https://huggingface.co/docs/transformers
+OpenAI API	LLM access & agents	https://openai.com/
+https://platform.openai.com/docs
+Ray	Distributed agents & RL	https://www.ray.io/
+https://docs.ray.io/
+AgentGPT	Autonomous AI agents	https://agentgpt.ai/	https://docs.agentgpt.ai/
+AutoGPT	Autonomous planning	GitHub	Repo wiki
+Haystack	RAG + agents	https://www.deepset.ai/
+https://docs.deepset.ai/
+ReAct	Reason + Action chaining	Paper & examples	Shared via repos
+ChatterBot	Simple chatbot agent	GitHub	ReadTheDocs
