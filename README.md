@@ -96,7 +96,9 @@
 - FAISS → https://github.com/facebookresearch/faiss
 - ChromaDB → https://www.trychroma.com
 - Docs: FAISS: https://faiss.ai & Chroma: https://docs.trychroma.com
-
+- Pinecone https://www.pinecone.io/
+- AstraDb https://docs.datastax.com/en/astra-db-serverless/get-started/quickstart.html
+- 
 ## 16. LLM Providers (Integrated)
 - OpenAI – https://platform.openai.com/docs
 - Anthropic (Claude) – https://docs.anthropic.com
