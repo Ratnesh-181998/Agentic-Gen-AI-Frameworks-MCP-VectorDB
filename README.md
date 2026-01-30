@@ -43,10 +43,13 @@
 - 🌐 Website: https://microsoft.github.io/autogen
 - 📘 Docs: https://microsoft.github.io/autogen/docs
 
-## 7. Agno
+## 7. Phidata & Agno
 - Purpose: Lightweight agent framework with RAG, observability, and agent UIs
-- 🌐 Website: https://agno.ai
-- 📘 Docs: https://docs.agno.ai
+- 🌐 Website: https://www.agno.com/
+- 📘 Docs: https://docs.agno.com/
+- https://docs.phidata.com/introduction
+- https://docs.phidata.com/reference/agents/python
+- https://github.com/agno-agi/phidata
 
 ## 8. LangFlow
 - Purpose: Low-code / no-code UI for building LangChain-based LLM apps
