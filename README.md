@@ -92,6 +92,7 @@
 - Purpose: Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 - 🌐 Website: https://flask.palletsprojects.com/en/stable/api/
 - 📘 Docs: https://flask.palletsprojects.com/en/stable/api/
+- https://github.com/flask-api/flask-api
   
 ## 12. BentoML
 - Purpose: Model serving & deployment for LLMs and AI agents
