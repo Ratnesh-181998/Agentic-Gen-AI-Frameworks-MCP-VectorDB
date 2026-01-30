@@ -57,6 +57,17 @@
 - 📘 Docs: https://developers.llamaindex.ai/python/framework/
 - https://github.com/run-llama/llama_index
   
+## 7.3 Haystack (deepset)
+- Production-grade framework for RAG + agentic pipeline building with search and reasoning components.
+- 🌐 Official Website: https://www.deepset.ai/
+- 📘 Documentation: https://docs.deepset.ai/
+
+## 7.4 ReAct
+- A methodology/framework for chaining reasoning and actions in language models.
+- 🌐 ReAct Paper & Community Examples:
+- https://arxiv.org/abs/2210.03629
+- 📘 Implementations: Provided in LangChain / community repos
+  
 ## 8. LangFlow
 - Purpose: Low-code / no-code UI for building LangChain-based LLM apps
 - 🌐 Website: https://www.langflow.org
