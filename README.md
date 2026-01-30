@@ -115,6 +115,7 @@
 - Anthropic (Claude) – https://docs.anthropic.com
 - Google Gemini – https://ai.google.dev/docs
 - Grok (xAI) – https://x.ai
+- Groq AI - https://console.groq.com/docs/quickstart
 
 ## 17. Cloud & LLMOps Stack (Agent Deployment)
 - Docker – https://docs.docker.com
