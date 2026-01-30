@@ -43,7 +43,7 @@
 - 🌐 Website: https://microsoft.github.io/autogen
 - 📘 Docs: https://microsoft.github.io/autogen/docs
 
-## 7. Phidata & Agno
+## 7.1 Phidata & Agno
 - Purpose: Lightweight agent framework with RAG, observability, and agent UIs
 - 🌐 Website: https://www.agno.com/
 - 📘 Docs: https://docs.agno.com/
@@ -51,6 +51,12 @@
 - https://docs.phidata.com/reference/agents/python
 - https://github.com/agno-agi/phidata
 
+## 7.2  LlamaIndex
+- Purpose: LlamaIndex delivers industry-leading document parsing and AI agent frameworks. Transform complex documents into automated workflows
+- 🌐 Website: https://www.llamaindex.ai/
+- 📘 Docs: https://developers.llamaindex.ai/python/framework/
+- https://github.com/run-llama/llama_index
+  
 ## 8. LangFlow
 - Purpose: Low-code / no-code UI for building LangChain-based LLM apps
 - 🌐 Website: https://www.langflow.org
